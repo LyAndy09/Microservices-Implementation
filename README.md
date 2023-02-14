@@ -55,7 +55,7 @@
              "name": "Irish Water Spaniel"
          }
      ]
-         This JSON file is saved as dictionary, for example  
+         This JSON file is saved as dictionary, here's an example on how to access retrieved data.
             data = open("random_dog.json, "r", encoding ='utf8')  
             print (data[0][0]) will return the image link response.  
  #### UML sequence diagram showing how requesting and receiving data work. Make it detailed enough that your partner (and your grader) will understand  
